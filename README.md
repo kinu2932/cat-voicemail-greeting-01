@@ -6,7 +6,7 @@
 
 One line, at most 120 characters: the funniest voicemail greeting a cat would record.
 
-> You've reached Milo. I'm knocking glasses off tables. Leave a message after the beep. I'll ignore it, then sit on it.
+> You've reached Milo. I'm knocking glasses off tables. Leave a message after the beep. I'll delete it, then sit on it.
 
 `main.py` writes the greeting to `/output/entry.txt` (or `$MAKEFUN_OUTPUT_DIR/entry.txt`).
 

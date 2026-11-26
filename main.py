@@ -3,13 +3,13 @@
 
 The greeting stacks three cat punchlines on one voicemail frame:
 1. knocking glasses off tables (the classic cat crime),
-2. ignoring the message (aloof cat character),
+2. deleting the message (the cat runs the voicemail, not you),
 3. sitting on it (cats sit on whatever you care about).
 """
 
 import os
 
-ENTRY = "You've reached Milo. I'm knocking glasses off tables. Leave a message after the beep. I'll ignore it, then sit on it."
+ENTRY = "You've reached Milo. I'm knocking glasses off tables. Leave a message after the beep. I'll delete it, then sit on it."
 
 OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
